@@ -4,17 +4,17 @@
   <meta charset="utf-8">
   
   
-  <title>Hoult의 개발일지</title>
+  <title>MYSQL Replication을 이용한 scale out처리(feat. haproxy) | Hoult의 개발일지</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="1. 구조MYSQL 5.1이상haproxy2. 사용mysql의 mater - slave구조(mysql replication)사용haproxy로 dml은 master로, select는 slave로 분산처리 -&gt; roundrobin방식사용*TEST를 위해 Docker사용master : 기본포트 3306 slave : 3307 slave1 : 3308 sl">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Hoult의 개발일지">
+<meta property="og:title" content="MYSQL Replication을 이용한 scale out처리(feat. haproxy)">
 <meta property="og:url" content="http://sherwher.github.io/2019/11/25/MYSQL%20Replication%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20scale%20out%EC%B2%98%EB%A6%AC(feat.%20haproxy)/index.html">
 <meta property="og:site_name" content="Hoult의 개발일지">
 <meta property="og:description" content="1. 구조MYSQL 5.1이상haproxy2. 사용mysql의 mater - slave구조(mysql replication)사용haproxy로 dml은 master로, select는 slave로 분산처리 -&gt; roundrobin방식사용*TEST를 위해 Docker사용master : 기본포트 3306 slave : 3307 slave1 : 3308 sl">
 <meta property="og:locale" content="ko_KR">
 <meta property="article:published_time" content="2019-11-25T05:50:46.000Z">
-<meta property="article:modified_time" content="2021-04-21T05:51:37.984Z">
+<meta property="article:modified_time" content="2021-04-21T05:53:15.656Z">
 <meta property="article:author" content="Hoult Lee">
 <meta property="article:tag" content="post">
 <meta property="article:tag" content="mysql">
@@ -82,7 +82,7 @@
 </header>
 
       <div class="outer">
-        <section id="main"><article id="MYSQL Replication을 이용한 scale out처리(feat. haproxy)-MYSQL Replication을 이용한 scale out처리(feat. haproxy)" class="h-entry article article-type-MYSQL Replication을 이용한 scale out처리(feat. haproxy)" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+        <section id="main"><article id="post-MYSQL Replication을 이용한 scale out처리(feat. haproxy)" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
     <a href="/2019/11/25/MYSQL%20Replication%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20scale%20out%EC%B2%98%EB%A6%AC(feat.%20haproxy)/" class="article-date">
   <time class="dt-published" datetime="2019-11-25T05:50:46.000Z" itemprop="datePublished">2019-11-25</time>
@@ -91,6 +91,16 @@
   </div>
   <div class="article-inner">
     
+    
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      MYSQL Replication을 이용한 scale out처리(feat. haproxy)
+    </h1>
+  
+
+      </header>
     
     <div class="e-content article-entry" itemprop="articleBody">
       
@@ -189,7 +199,7 @@ haproxy
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://sherwher.github.io/2019/11/25/MYSQL%20Replication%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20scale%20out%EC%B2%98%EB%A6%AC(feat.%20haproxy)/" data-id="cknr1gdy70000m0lf5dkt14s6" data-title="" class="article-share-link">공유</a>
+      <a data-url="http://sherwher.github.io/2019/11/25/MYSQL%20Replication%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20scale%20out%EC%B2%98%EB%A6%AC(feat.%20haproxy)/" data-id="cknr1gdy70000m0lf5dkt14s6" data-title="MYSQL Replication을 이용한 scale out처리(feat. haproxy)" class="article-share-link">공유</a>
       
       
       
@@ -268,7 +278,7 @@ haproxy
           </li>
         
           <li>
-            <a href="/2019/11/25/MYSQL%20Replication%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20scale%20out%EC%B2%98%EB%A6%AC(feat.%20haproxy)/">(no title)</a>
+            <a href="/2019/11/25/MYSQL%20Replication%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20scale%20out%EC%B2%98%EB%A6%AC(feat.%20haproxy)/">MYSQL Replication을 이용한 scale out처리(feat. haproxy)</a>
           </li>
         
       </ul>
