@@ -1,0 +1,20 @@
+﻿{
+  "version": 1,
+  "slug": "쿠팡-상품",
+  "caption": "[이래도 안 사?]\n\n책상 위 장비 하나 때문에 검색창만 닳는 중. 안 사려고 비교표 만들었는데, 계속 찾아보느라 시간이 더 나가서 이제 구매보다 미련이 더 비싸 보임.",
+  "replyText": "쿠팡 파트너스 활동의 일환으로 일정액의 수수료를 제공받을 수 있습니다.\n\nhttps://link.coupang.com/a/dLT7PkTB6W",
+  "images": [
+    "https://sherwher.github.io/coupang-curation/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88/card-01.png",
+    "https://sherwher.github.io/coupang-curation/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88/card-02.png",
+    "https://sherwher.github.io/coupang-curation/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88/card-03.png",
+    "https://sherwher.github.io/coupang-curation/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88/card-04.png",
+    "https://sherwher.github.io/coupang-curation/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88/card-05.png",
+    "https://sherwher.github.io/coupang-curation/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88/card-06.png",
+    "https://sherwher.github.io/coupang-curation/%EC%BF%A0%ED%8C%A1-%EC%83%81%ED%92%88/card-07.png"
+  ],
+  "source": {
+    "coupangUrl": "https://link.coupang.com/a/dLT7PkTB6W",
+    "productName": "쿠팡 상품",
+    "productUrl": "https://link.coupang.com/a/dLT7PkTB6W"
+  }
+}

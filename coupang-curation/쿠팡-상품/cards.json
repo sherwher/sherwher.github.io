@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "hook",
+    "eyebrow": "현재",
+    "headline": "안 본 척했는데\n이미 탭 3개",
+    "body": "책상 장비 이름만 지웠다 켰다 함\n검색기록이 대신 자백 중임"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "관찰",
+    "headline": "안 살 이유를\n메모장에 적는 중",
+    "body": "근데 바로 밑줄에 반박도 씀\n혼자 청문회 열고 혼자 기립박수침"
+  },
+  {
+    "index": 3,
+    "type": "excuse",
+    "eyebrow": "변명",
+    "headline": "계속 찾아보느라\n저녁이 사라짐",
+    "body": "시간 더 나가는 게 제일 억울해서\n이제 검색 종료 장비라고 부르는 중"
+  },
+  {
+    "index": 4,
+    "type": "use case",
+    "eyebrow": "핑계",
+    "headline": "매일 책상 위에\n있는 거라며 합리화",
+    "body": "매일 쓰는 장비면 사치가 아니라\n책상 생태계 복원 사업이라고 우김"
+  },
+  {
+    "index": 5,
+    "type": "money",
+    "eyebrow": "돈",
+    "headline": "가격 보다가\n갑자기 계산 천재",
+    "body": "하루 단위로 나누고 월 단위로 접고\n결국 커피값 프레임까지 꺼냄"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "팩트",
+    "headline": "그냥 내 책상에\n올려두고 싶음",
+    "body": "성능 비교하는 척했지만\n사실 자리 배치부터 머릿속으로 끝냄"
+  },
+  {
+    "index": 7,
+    "type": "close",
+    "eyebrow": "결론",
+    "headline": "그래서\n이래도 안 사?",
+    "body": "링크 닫아도 머릿속 책상엔 이미 배송 완료\n안 산 척만 연장하는 중임"
+  }
+]
