@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-05-18T05:21:06.485Z",
+  "summary": "manifest contract is valid and publish boundary is coupang-publish-manifest.yml only"
+}
