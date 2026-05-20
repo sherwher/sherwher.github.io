@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-05-19T23:59:54.408Z",
+  "summary": "manifest contract valid and publish workflow boundary remains coupang-publish-manifest only"
+}
