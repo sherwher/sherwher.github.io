@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-05-21T00:18:34.740Z",
+  "summary": "manifest contract validates locally and publish path is coupang-publish-manifest.yml only"
+}

@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-05-21T00:18:18.895Z",
+  "summary": "verified product name from Chrome CDP and usable Coupang CDN product image"
+}
