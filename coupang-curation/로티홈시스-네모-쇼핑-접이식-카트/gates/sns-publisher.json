@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-05-27T00:00:49.430Z",
+  "summary": "manifest contract and coupang-publish-manifest workflow boundary verified; publish command will verify public image URLs before trigger"
+}

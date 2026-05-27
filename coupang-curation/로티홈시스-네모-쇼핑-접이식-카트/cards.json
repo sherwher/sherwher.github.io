@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "hook",
+    "eyebrow": "출발 전",
+    "headline": "안 사려던 사람\n카트 접힘 각도 보는 중",
+    "body": "애 앉히는 건가 했다가\n정신 차리고 짐 카트로 분류함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "합리화",
+    "headline": "유모차 있는데?\n라고 말하려다 멈춤",
+    "body": "유모차엔 애가 있고\n내 손엔 물통 간식 겉옷이 있음"
+  },
+  {
+    "index": 3,
+    "type": "excuse",
+    "eyebrow": "정정",
+    "headline": "이건 애용 아님\n어른 손 살리는 용도",
+    "body": "가방 물 간식 싣고 다니는\n놀이공원 생존 카트라고 우김"
+  },
+  {
+    "index": 4,
+    "type": "engineer",
+    "eyebrow": "계산",
+    "headline": "겉옷까지 얹으면\n손이 갑자기 퇴사함",
+    "body": "물통, 간식, 가방, 겉옷을\n한 번에 끌고 이동하는 문제임"
+  },
+  {
+    "index": 5,
+    "type": "money",
+    "eyebrow": "비용",
+    "headline": "팔 아픈 값도\n계산서에 넣기 시작",
+    "body": "종일 들고 다닐 생각하니\n카트 가격이 갑자기 조용해짐"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "진짜",
+    "headline": "사실 접어서\n트렁크에 넣고 싶음",
+    "body": "도착하면 펼치고\n끝나면 접어 넣는 그 장면을 원함"
+  },
+  {
+    "index": 7,
+    "type": "close",
+    "eyebrow": "결론",
+    "headline": "손목 핑계 다 댔고\n이래도 안 사?",
+    "body": "애보다 짐이 먼저 지치는 날\n카트 보는 나를 이해하기로 함"
+  }
+]
