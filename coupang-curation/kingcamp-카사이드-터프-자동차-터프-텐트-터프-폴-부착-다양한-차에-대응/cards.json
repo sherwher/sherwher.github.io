@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "hook",
+    "eyebrow": "현재",
+    "headline": "차박 가고 싶다며\n더위부터 검색함",
+    "body": "감성은 밤하늘인데 낮 차 안 더위부터 걱정함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "반박",
+    "headline": "전기차도 아닌데\n무슨 자신감임",
+    "body": "에어컨 계속 틀 수도 없어서 그늘막 쪽으로 시선 이동함"
+  },
+  {
+    "index": 3,
+    "type": "excuse",
+    "eyebrow": "변명",
+    "headline": "더위부터 막는 건\n생존 장비임",
+    "body": "차 안에서 버틸 생각보다 차 밖에 그늘 만드는 게 맞다고 우김"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "용도",
+    "headline": "차박 전에\n그늘부터 확보",
+    "body": "KingCamp 카사이드 타프 보면서 캠핑이 아니라 열관리라고 함"
+  },
+  {
+    "index": 5,
+    "type": "money",
+    "eyebrow": "돈",
+    "headline": "숙소비랑 비교하면\n갑자기 합리적",
+    "body": "한 번만 갔다 와도 본전이라는 계산이 벌써 시작됨"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "그냥 차 옆에\n그늘 치고 싶음",
+    "body": "복잡한 핑계 다 빼면 차 옆에서 라면 먹는 장면 상상 중"
+  },
+  {
+    "index": 7,
+    "type": "close",
+    "eyebrow": "결론",
+    "headline": "그래서\n이래도 안 사?",
+    "body": "덥겠지 하던 사람이 이미 주차 방향이랑 해 위치 계산 중임"
+  }
+]
