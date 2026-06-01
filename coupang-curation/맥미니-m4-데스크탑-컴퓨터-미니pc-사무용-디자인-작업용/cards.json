@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "hook",
+    "eyebrow": "현재",
+    "headline": "저번에도 올렸는데\n또 올려봄",
+    "body": "못 산 사람이 링크만 다시 여는 현장 검거됨"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "반박",
+    "headline": "안 살 거면\n왜 또 봄",
+    "body": "장바구니는 비어 있는데 검색 기록은 계속 증식 중"
+  },
+  {
+    "index": 3,
+    "type": "excuse",
+    "eyebrow": "변명",
+    "headline": "이건 소비가 아니라\n작업 환경 점검임",
+    "body": "맥미니 M4 보면서 책상 생산성 진단한다고 우기는 중"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "핑계",
+    "headline": "사무용이라며\n디자인 작업까지 넣음",
+    "body": "용도 두 개 붙였으면 이미 합리화 문서 초안은 완성임"
+  },
+  {
+    "index": 5,
+    "type": "money",
+    "eyebrow": "돈",
+    "headline": "가격 보고 닫았다가\n다시 들어옴",
+    "body": "못 산 이유는 분명한데 사고 싶은 이유가 더 자주 새로고침됨"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "그냥 갖고 싶은 거\n아직 안 끝남",
+    "body": "지난번 글로 마음 정리된 줄 알았는데 링크가 다시 열림"
+  },
+  {
+    "index": 7,
+    "type": "close",
+    "eyebrow": "결론",
+    "headline": "그래서\n이래도 안 사?",
+    "body": "못 사서 또 올리는 사람은 사실 구매 직전보다 더 위험함"
+  }
+]
