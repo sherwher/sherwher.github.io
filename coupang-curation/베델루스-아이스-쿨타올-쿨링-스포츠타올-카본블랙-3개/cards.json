@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "hook",
+    "eyebrow": "여름",
+    "headline": "예전엔 귀찮았는데\n이젠 필수템",
+    "body": "물 묻히고 짜는 게 번거로워도\n요즘 더위엔 쿨타올이 먼저 생각남"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "변화",
+    "headline": "그냥 수건이면 된다던\n시절은 지나감",
+    "body": "목에 얹는 순간 체감이 달라서\n여름 외출 루틴에 들어오기 시작함"
+  },
+  {
+    "index": 3,
+    "type": "excuse",
+    "eyebrow": "외출",
+    "headline": "가방에 하나 있으면\n더위 대응이 쉬움",
+    "body": "출퇴근, 산책, 운동할 때\n땀 올라오면 바로 꺼내 쓰기 좋음"
+  },
+  {
+    "index": 4,
+    "type": "use case",
+    "eyebrow": "실내",
+    "headline": "책상 앞 더위에도\n은근히 자주 씀",
+    "body": "에어컨 애매한 날엔\n옆에 두고 쓰는 시간이 생각보다 많음"
+  },
+  {
+    "index": 5,
+    "type": "money",
+    "eyebrow": "구성",
+    "headline": "3개 세트라\n나눠 두기 좋음",
+    "body": "하나는 책상, 하나는 가방,\n하나는 예비로 두면 동선이 편해짐"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "색상",
+    "headline": "카본블랙이라\n밖에서도 부담 적음",
+    "body": "운동용 느낌만 강하지 않아서\n일상 가방에 넣어도 무난한 편"
+  },
+  {
+    "index": 7,
+    "type": "close",
+    "eyebrow": "결론",
+    "headline": "여름엔 결국\n손이 가는 쪽",
+    "body": "예전엔 귀찮아서 넘겼지만\n지금은 하나쯤 챙겨두는 게 편함"
+  }
+]
