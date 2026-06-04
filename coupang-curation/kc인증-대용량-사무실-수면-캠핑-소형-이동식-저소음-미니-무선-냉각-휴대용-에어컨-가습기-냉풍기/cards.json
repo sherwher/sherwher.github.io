@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "hook",
+    "eyebrow": "사무실",
+    "headline": "중앙냉난방인데\n내 자리만 더움",
+    "body": "에어컨은 켜져 있다는데\n체감은 왜 이렇게 다를까 싶음"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "고민",
+    "headline": "미니 냉풍기면\n도움이 될까",
+    "body": "책상 위에 둘 수 있는 크기는 좋은데\n성능은 써보기 전엔 잘 모르겠음"
+  },
+  {
+    "index": 3,
+    "type": "office",
+    "eyebrow": "현실",
+    "headline": "사무실 전체 말고\n내 앞만 시원하면 됨",
+    "body": "회의실처럼 빵빵한 냉방까진 아니어도\n얼굴 앞 30cm만 살면 만족할 듯"
+  },
+  {
+    "index": 4,
+    "type": "desk",
+    "eyebrow": "책상",
+    "headline": "무선이면\n자리 이동은 편함",
+    "body": "콘센트 위치 애매한 사무실에선\n이동식이라는 점이 꽤 현실적임"
+  },
+  {
+    "index": 5,
+    "type": "doubt",
+    "eyebrow": "의심",
+    "headline": "근데 진짜\n시원할지는 모르겠음",
+    "body": "미니 제품이라 기대치를 낮춰야 할지\n후기 더 봐야 할지 고민 중"
+  },
+  {
+    "index": 6,
+    "type": "use case",
+    "eyebrow": "용도",
+    "headline": "업무 중 더위가\n집중력을 깎음",
+    "body": "땀나고 답답한 시간만 줄어도\n오후 업무 버티는 데는 도움 될 것 같음"
+  },
+  {
+    "index": 7,
+    "type": "close",
+    "eyebrow": "결론",
+    "headline": "성능은 궁금하고\n더위는 현실임",
+    "body": "중앙냉난방 사무실에서\n내 자리만 더운 사람은 계속 보게 됨"
+  }
+]
