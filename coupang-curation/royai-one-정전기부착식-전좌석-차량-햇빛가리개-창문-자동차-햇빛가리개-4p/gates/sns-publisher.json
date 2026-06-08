@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-06-08T00:30:17.808Z",
+  "summary": "manifest contract is local-valid and publish path stays within coupang-publish-manifest workflow"
+}

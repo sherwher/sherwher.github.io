@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "현재",
+    "headline": "올여름 덥다며\n차창만 봄",
+    "body": "안 산다더니 차량 햇빛가리개 링크 열고\n앞유리 옆유리 배치까지 보는 사람"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "관찰",
+    "headline": "전좌석까지는\n과하다며",
+    "body": "라고 말하면서 4P면 어느 창문에 붙일지\n혼자 조용히 시뮬레이션함"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "변명",
+    "headline": "검색 그만하려고\n검색 더 함",
+    "body": "계속 찾아보느라 시간이 더 나갔는데\n본인은 아직 여름 대비 검토라고 부름"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "핑계",
+    "headline": "책상템도 아닌데\n매일템 취급",
+    "body": "책상 위 장비처럼 매일 보는 것도 아니면서\n차 탈 때마다 햇빛 맞는다고 루틴에 끼움"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "계산",
+    "headline": "4장으로 나누니\n갑자기 평온함",
+    "body": "전좌석 커버라고 생각한 순간\n가격보다 창문 개수가 더 설득력 있어짐"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "팩트",
+    "headline": "그냥 착 붙는 게\n궁금한 거임",
+    "body": "정전기로 차창에 붙였다 떼는 그 느낌\n사실 햇빛보다 그게 더 신경 쓰임"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "그래서\n이래도 안 사?",
+    "body": "안 산다고 말은 하는데\n이미 여름 차 안 온도 떠올린 사람은 졌음"
+  }
+]
