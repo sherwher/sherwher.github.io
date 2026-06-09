@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-06-09T02:31:33.469Z",
+  "summary": "manifest local-valid, 7 public images, only coupang-publish-manifest workflow triggered"
+}

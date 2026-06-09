@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "현재",
+    "headline": "경주로 정하긴\n했는데",
+    "body": "가족 여행지 경주 확정해놓고\n날짜는 아직 안 정한 사람 발견함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "변명",
+    "headline": "장소는 정함\n날짜가 표류 중",
+    "body": "성호리조트 예약창까지 열어놓고\n언제 갈랑가에서 3주째 멈춰 있음"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "합리화",
+    "headline": "이건 미룬 게 아니라\n신중한 거임",
+    "body": "주말이냐 연차 끼냐 따지는 중이라고\n우기면서 달력만 계속 봄"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "용도",
+    "headline": "리조트라\n움직일 일도 없음",
+    "body": "경주까지 가서 사우나에 수영장이면\n애들도 어른도 그냥 뻗어 있으면 되는 코스"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "계산",
+    "headline": "와우 초특가라며\n또 미룸",
+    "body": "지금 가격이면 가야 하는 거 아는데\n정작 출발일은 입 밖으로 안 나옴"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "팩트",
+    "headline": "사실 이미\n갈 마음임",
+    "body": "야외수영장 개장 날짜까지 외운 사람이\n안 간다고 말하는 거 안 믿김"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "그래서\n언제 갈랑가",
+    "body": "경주는 정해졌고 리조트도 봤는데\n날짜만 말하면 끝나는 거 본인도 앎"
+  }
+]
