@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-06-09T07:57:21.713Z",
+  "summary": "CDP로 추출한 실제 도서 표지(청춘의 독서 특별증보판, 유시민) 확인, 40만부/추가원고 신호 선명, 34KB 정상"
+}

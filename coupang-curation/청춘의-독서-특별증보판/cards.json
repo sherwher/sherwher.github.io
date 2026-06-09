@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "고백",
+    "headline": "책 잘 안 읽는\n내가 읽은 책",
+    "body": "유시민 『청춘의 독서』 솔직히 나한텐 쉽지 않았음"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "솔직히",
+    "headline": "어려웠다\n그건 인정",
+    "body": "평소에 안 읽던 무게의 글이라 처음 몇 장은 좀 버거웠음"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "근데",
+    "headline": "읽는데 자꾸\n추천을 받는 기분",
+    "body": "저자가 자기 인생책을 한 권씩 옆에서 건네주는 느낌이었다"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "구성",
+    "headline": "한 권 끝내면\n다음 책이 생김",
+    "body": "챕터마다 안 읽었던 고전이 읽고 싶은 책 리스트로 쌓임"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "이유",
+    "headline": "어려운 만큼\n끝까지 가게 됨",
+    "body": "누가 골라서 건네주니까 평소 같으면 덮었을 책도 넘어가짐"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "못 읽는 사람일수록\n도움 받는 책",
+    "body": "혼자 못 고르는 사람에게 독서 가이드가 붙는 느낌이라 좋았음"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "책이 어려운\n나 같은 사람에게",
+    "body": "어렵지만 추천받는 기분으로 끝까지 읽게 되는 책 한 권"
+  }
+]
