@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "그때",
+    "headline": "처음 팀장이 되고\n매일 흔들렸다",
+    "body": "줄리 주오 『팀장의 탄생』 그 시절 누가 건네준 책"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "솔직히",
+    "headline": "잘하고 있는 건지\n매일 의심했음",
+    "body": "팀장이라는 자리가 이렇게 외로운 건 줄 몰랐던 시절"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "그런데",
+    "headline": "저자도 똑같이\n헤맸다고 함",
+    "body": "실리콘밸리에서 20대에 처음 매니저 된 사람이 먼저 털어놓는 이야기"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "한 문장",
+    "headline": "타고나는 게 아니라\n만들어진다",
+    "body": "탁월한 팀장은 만들어진다는 말에 그때 진짜 위로받았음"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "이유",
+    "headline": "답보다\n위로를 더 받음",
+    "body": "그 불안이 나만 그런 게 아니라고 말해주는 책이라 버텼다"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "지금은",
+    "headline": "흔들릴 때마다\n다시 꺼내봄",
+    "body": "정답집이 아니라 옆에서 같이 헤매준 동료 같은 책"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "그래서",
+    "headline": "처음 누군가를\n이끌게 됐다면",
+    "body": "힘든 시기에 위로가 필요한 새 팀장에게 건네고 싶은 책"
+  }
+]
