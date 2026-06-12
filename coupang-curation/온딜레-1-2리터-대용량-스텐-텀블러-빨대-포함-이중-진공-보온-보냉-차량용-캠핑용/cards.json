@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "지금",
+    "headline": "너무 더워서\n정신이 나감",
+    "body": "아침에 채운 얼음이 저녁까지 가는 텀블러가 필요했다"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "문제",
+    "headline": "물이 1시간이면\n미지근해짐",
+    "body": "여름엔 얼음 녹기 전에 다 마시려고 급하게 들이켜게 됨"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "핵심",
+    "headline": "이중 진공이라\n보냉이 오래감",
+    "body": "스텐 이중 진공 단열이라 차가운 게 한참 유지된다"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "용량",
+    "headline": "1.2리터라\n하루 한 번이면 끝",
+    "body": "계속 다시 안 채워도 되는 대용량이라 여름에 든든함"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "편의",
+    "headline": "빨대 있어서\n운전하면서 쭉",
+    "body": "차량용 컵홀더에도 들어가고 캠핑 갈 때도 이거 하나면 됨"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "여름 텀블러는\n결국 보냉 싸움",
+    "body": "얼음 오래 가는 거 하나면 한여름 버티는 게 달라진다"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "이번 여름은\n미지근한 물 그만",
+    "body": "얼음 하루 종일 붙잡고 싶은 사람에게 필요한 텀블러"
+  }
+]
