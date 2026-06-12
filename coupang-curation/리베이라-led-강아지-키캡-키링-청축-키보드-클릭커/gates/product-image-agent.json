@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-06-12T10:11:50.274Z",
+  "summary": "CDP로 추출한 실제 상품명·이미지(CDN 3bad/...8088)를 720x720ex로 업스케일, 200 OK 92KB, card-01에 강아지 키캡 키링 실물 선명"
+}
