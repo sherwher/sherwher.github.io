@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-06-14T23:55:06.173Z",
+  "summary": "manifest public URL 구성 완료, 일반 validate publish-ready, reply disclosure+쿠팡URL 정상"
+}

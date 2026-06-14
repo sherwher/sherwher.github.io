@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "여름",
+    "headline": "아침에 넣은 얼음\n퇴근까지 살아있음",
+    "body": "락앤락 메트로 킹 텀블러, 올여름 책상 위 필수품 등극함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "고민",
+    "headline": "텀블러는\n다 비슷하지 않나?",
+    "body": "라고 생각했는데 점심에 녹아버린 미지근한 물 마시고 생각 바뀜"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "보냉",
+    "headline": "오후 내내\n얼음 소리 남",
+    "body": "스테인리스 진공 구조라 한낮에도 차가움이 오래 버티는 편"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "용량",
+    "headline": "킹 사이즈라\n리필이 줄어듦",
+    "body": "큰 용량이라 자리에서 안 일어나도 하루 음수량 채워지는 게 장점"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "일상",
+    "headline": "책상도 차 안도\n다 커버됨",
+    "body": "손잡이에 컵홀더 사이즈라 출근길부터 사무실까지 같이 다님"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "여름템",
+    "headline": "결국 제일 많이\n쓰게 되는 물건",
+    "body": "더운 날일수록 차가운 거 하나가 컨디션을 좌우하더라"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "이번 여름은\n이거 하나로 버팀",
+    "body": "얼음 오래 가는 텀블러 찾고 있었으면 후보에 올려둘 만함"
+  }
+]

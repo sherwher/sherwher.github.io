@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-06-14T23:55:05.360Z",
+  "summary": "CDP 폴백으로 락앤락 메트로 킹 텀블러 실제 상품 이미지 확보(492x492, JPEG, Access Denied 아님), 육안 검수로 손잡이 달린 회색 보온 텀블러 확인"
+}
