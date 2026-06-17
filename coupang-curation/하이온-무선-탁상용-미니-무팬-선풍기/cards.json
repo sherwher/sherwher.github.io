@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "여름",
+    "headline": "잔인한 계절이\n다시 돌아왔다",
+    "body": "우리 회사 너무 더움 이슈로 결국 하이온 무팬 선풍기 켜둠"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "현실",
+    "headline": "에어컨은\n내 마음대로 못 켬",
+    "body": "사무실 온도 합의 못 보는 동안 내 책상만 사막 되는 중"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "선택",
+    "headline": "그래서 내 바람은\n내가 챙김",
+    "body": "탁상용이라 모니터 옆에 두고 나한테만 바람 보내는 구조임"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "무팬",
+    "headline": "날개가 없어서\n손도 머리카락도 안전",
+    "body": "무팬 구조라 청소도 쉽고 책상에서 굴러다녀도 위험하지 않음"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "무선",
+    "headline": "선 없이\n회의실까지 동행",
+    "body": "무선 충전식이라 자리 이동해도 콘센트 안 찾아도 되는 게 편함"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "여름 출근에\n생존 장비 맞음",
+    "body": "더운 사무실에서 바람 하나 있고 없고가 컨디션을 가른다"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "올여름은\n이걸로 버텨봄",
+    "body": "회사 더위로 고생 중이면 책상 위 후보에 올려둘 만함"
+  }
+]
