@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "여름 예고",
+    "headline": "올여름\n더 덥다는데",
+    "body": "벌써 한낮엔 끈적한데 본격적인 더위는 시작도 안 한 느낌임"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "타이밍",
+    "headline": "장바구니 직구템\n묵혀둔 사람",
+    "body": "사야지 사야지 미뤄둔 직구 물건들 지금 꺼낼 때가 온 듯"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "세일",
+    "headline": "마침 직구\n세일 기간임",
+    "body": "쿠팡 로켓직구 썸머블프, 상반기 직구 세일이라고 함"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "기간",
+    "headline": "이번 주\n6/15~6/22",
+    "body": "딱 일주일 짜리라 더위 본격적으로 오기 전에 둘러보기 좋음"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "와우 혜택",
+    "headline": "직구인데\n반품 걱정 덜함",
+    "body": "와우회원이면 할인에 무료배송·무료반품까지 얹어준다고 함"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "유의",
+    "headline": "한정 수량이라\n조기 종료 주의",
+    "body": "예고 없이 끝날 수 있다니 미루다 놓치면 좀 아쉬울 듯"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "더위 오기 전에\n미리 챙기기",
+    "body": "여름은 어차피 오니까 필요한 직구템 미리 살펴두면 마음 편함"
+  }
+]
