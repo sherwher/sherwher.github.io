@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "여름",
+    "headline": "나도 휴가\n준비해야 하는데",
+    "body": "다들 어디 간다는데 나만 아직 계획 0. 그러다 이 숙박 세일 페스타 발견함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "현실",
+    "headline": "막상 알아보면\n숙박비가 발목",
+    "body": "성수기 1박 가격 보고 조용히 창 닫은 적 한두 번이 아님"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "혜택",
+    "headline": "1박 이상\n최대 3만원 쿠폰",
+    "body": "당일치기 말고 하루 자고 오는 여행이면 바로 쓸 수 있는 할인"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "더 크게",
+    "headline": "2박 이상이면\n최대 7만원까지",
+    "body": "주말 끼고 2박 잡으면 숙박비 부담이 확 줄어드는 구간"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "진짜",
+    "headline": "정부 지원\n숙박 할인 사업",
+    "body": "문체부·한국관광공사가 함께 추진하는 사업이라 슬쩍 믿음 가는 포인트"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "조건",
+    "headline": "비수도권\n인구감소지역 위주",
+    "body": "85개 지자체 대상이라 한적한 곳으로 떠나기 딱 좋은 핑계 됨"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "기간",
+    "headline": "쿠폰 발급\n7월 31일까지",
+    "body": "매일 오전 10시 선착순 발급. 미루다 보면 여름 다 가니까 일단 받아두기"
+  }
+]
