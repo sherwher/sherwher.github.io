@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-06-22T23:58:07.027Z",
+  "summary": "CDP(9222) 폴백으로 실제 상품컷 수신(63KB, 초콜릿모양 키캡키링 4종-페레로/두바이/녹차), 상품명과 일치, HTTP는 403/Access Denied 차단"
+}

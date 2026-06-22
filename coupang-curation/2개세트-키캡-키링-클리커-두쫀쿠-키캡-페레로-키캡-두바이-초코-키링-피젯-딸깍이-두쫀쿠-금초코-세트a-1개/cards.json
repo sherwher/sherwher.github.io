@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "발견",
+    "headline": "가끔 이런 키캡\n사면 재밌겠다",
+    "body": "초콜릿 모양 키캡 키링 보고 1초 만에 마음 뺏긴 사람"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "현실",
+    "headline": "근데 현실적으론\n못 살 것 같음",
+    "body": "당장 필요한 것도 아닌데 이걸 사는 게 맞나 싶어짐"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "용도",
+    "headline": "사실 실용성은\n0에 가까움",
+    "body": "키보드에 끼워도 그만 안 끼워도 그만인 거 이미 알고 있음"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "그래도",
+    "headline": "피젯 딸깍이로는\n은근 쓸 만할 듯",
+    "body": "딸깍거리는 클리커라 손 심심할 때 만지작거리기 좋아 보임"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "비주얼",
+    "headline": "페레로에 두바이\n초코까지 디테일",
+    "body": "금박 페레로랑 녹차 두바이 초코 비주얼은 솔직히 귀여움 인정"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "결국",
+    "headline": "장바구니에만\n넣어두는 부류",
+    "body": "사면 재밌을 건 아는데 결제까진 또 안 가는 그런 물건"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "그래도",
+    "headline": "구경값은\n했다 치고",
+    "body": "안 사도 보는 재미는 있었으니 이 정도면 됐다 하고 닫는 중"
+  }
+]
