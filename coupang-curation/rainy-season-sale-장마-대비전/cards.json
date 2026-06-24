@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "현재",
+    "headline": "비 온다니까\n이미 보는 중",
+    "body": "장마 대비전 열어놓고 안 살 척하는 사람 발견함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "변명",
+    "headline": "우산은 있는데\n또 보는 중",
+    "body": "분명 집에 하나 있는데 왜 접이식이랑 장우산을 비교함"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "합리화",
+    "headline": "제습제는 소비가\n아니라 방어임",
+    "body": "습기 올라오는 순간 갑자기 생활 인프라 점검 시작함"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "장마",
+    "headline": "비 오는 날마다\n핑계가 생김",
+    "body": "우산, 우비, 제습, 빨래 냄새까지 한 번에 떠오르는 중"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "돈",
+    "headline": "할인율 봤으면\n이미 늦은 듯",
+    "body": "필요한 척 들어갔다가 가격 비교 탭만 늘어나는 중"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "장마 대비라는 말\n너무 편함",
+    "body": "갖고 싶은 걸 생활 준비라고 부르면 갑자기 그럴듯함"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "그래서\n이래도 안 사?",
+    "body": "안 산다고 말하면서 이미 비 오는 내일을 상상 중"
+  }
+]

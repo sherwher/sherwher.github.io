@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-06-24T08:27:00.083Z",
+  "summary": "manifest contract and coupang-only workflow boundary verified; public URL verification deferred to publish step"
+}
