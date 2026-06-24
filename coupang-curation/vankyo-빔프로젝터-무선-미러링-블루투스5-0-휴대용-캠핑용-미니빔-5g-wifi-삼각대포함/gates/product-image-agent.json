@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-06-24T00:04:18.104Z",
+  "summary": "CDP 폴백으로 받은 product.jpg가 실제 VANKYO 빔프로젝터 본체 이미지(렌즈/송풍구/VANKYO 로고 확인), Access Denied 아님, 720px급"
+}

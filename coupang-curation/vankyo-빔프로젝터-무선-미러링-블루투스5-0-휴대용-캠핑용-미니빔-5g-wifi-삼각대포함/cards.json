@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "현재",
+    "headline": "쏠 벽도 없는데\n장바구니엔 있음",
+    "body": "VANKYO 빔프로젝터 무선 미러링 휴대용 미니빔. 집에 투사할 공간 하나 없으면서 링크부터 열어본 사람 여기 있음"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "변명",
+    "headline": "벽이 없으면\n천장에 쏘면 됨",
+    "body": "누워서 천장 보는 용도라고 진지하게 합리화 시작하는 중"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "합리화",
+    "headline": "삼각대 포함이라\n어디든 된대",
+    "body": "캠핑 가서 쏘면 되잖아 가본 적 없는 캠핑까지 끌어옴"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "스펙",
+    "headline": "5G WIFI에\n무선 미러링까지",
+    "body": "폰 화면 그대로 쏜다는 말에 이미 반쯤 넘어간 듯"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "크기",
+    "headline": "이 작은 게\n자리도 안 먹음",
+    "body": "공간 없다는 이유마저 휴대용이라는 단어가 지워버림"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "필요해서가 아니라\n갖고 싶은 거임",
+    "body": "쏠 곳 없는 거 알면서 계속 쳐다보는 게 이미 증거임"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "벽은 나중에\n생각하기로 함",
+    "body": "공간은 없는데 어디다 둘지는 벌써 정해놓음"
+  }
+]
