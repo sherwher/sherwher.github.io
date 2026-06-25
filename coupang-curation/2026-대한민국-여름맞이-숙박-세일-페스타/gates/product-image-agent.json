@@ -1,6 +1,6 @@
 {
   "gate": "product-image-agent",
   "status": "pass",
-  "checkedAt": "2026-06-22T06:02:39.516Z",
-  "summary": "실제 이벤트 배너(coupang travel·문체부·관광공사 로고, '여름맞이 숙박 세일 페스타', 1박 최대3만원/2박 최대7만원 쿠폰) 정상 수신, 142KB, 상품과 일치"
+  "checkedAt": "2026-06-25T00:25:04.661Z",
+  "summary": "event banner verified: stay sale festa identity, coupon amounts, and agency logos visible"
 }
