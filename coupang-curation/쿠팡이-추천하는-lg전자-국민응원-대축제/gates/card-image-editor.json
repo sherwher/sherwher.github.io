@@ -1,0 +1,6 @@
+{
+  "gate": "card-image-editor",
+  "status": "pass",
+  "checkedAt": "2026-06-29T00:33:22.488Z",
+  "summary": "card-01~07 글자 안 잘림, 헤드라인 2줄, 상품배지 정상, closing 스탬프 이벤트 톤으로 교체"
+}
