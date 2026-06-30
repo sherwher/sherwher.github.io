@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-06-30T00:19:39.221Z",
+  "summary": "CDP 폴백으로 실제 상품 식별, S26 Ultra 자급제 공식 이미지(S펜·쿼드카메라·감사페스티벌 배지, 34KB) 정상 로드, Access Denied 없음"
+}

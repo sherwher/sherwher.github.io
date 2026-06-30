@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "부고",
+    "headline": "어제 플립4가\n눈을 감았다",
+    "body": "오래 같이 산 폰이 갑자기 갔다 그 와중에 갤럭시 S26 Ultra 링크는 이미 켜둠"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "현실",
+    "headline": "사고 싶다\n근데 너무 비싸",
+    "body": "S26 Ultra 장바구니까진 갔는데 결제 직전에 가격 보고 손이 굳음"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "합리화",
+    "headline": "아직 쓸 만하다고\n우기는 중",
+    "body": "화면 멀쩡하고 통화 되면 산 거 아니냐고 스스로한테 변명함"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "응급처치",
+    "headline": "플립4에\n산소호흡기 다는 중",
+    "body": "보조배터리 물리고 액정필름 새로 붙이고 어떻게든 한 시즌 더 버텨보려는 몸부림"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "타이밍",
+    "headline": "삼성 감사 페스티벌은\n지금만",
+    "body": "감사 페스티벌 혜택 기간이 있어서 미루다 보면 그 가격은 또 사라짐"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "산소호흡기는\n임시방편일 뿐",
+    "body": "연명치료 비용 모으면 결국 새 폰 값이라는 걸 알면서도 모른 척하는 중"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "플립4야\n조금만 더 버텨줘",
+    "body": "안 산다고 해놓고 S26 Ultra 색상별로 비교하고 있는 사람"
+  }
+]
