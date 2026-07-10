@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-07-10T00:25:49.004Z",
+  "summary": "CDP로 실제 상품 페이지 확인, og:image CDN 720x720ex 200 OK(726KB), product.jpg 112KB 저장, 리센느 멤버 폰케이스 실물 이미지 확인"
+}
