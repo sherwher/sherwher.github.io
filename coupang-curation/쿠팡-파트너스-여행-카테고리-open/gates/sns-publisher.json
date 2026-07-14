@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-07-14T00:19:45.785Z",
+  "summary": "manifest contract and protected workflow boundary verified; publish waits for public 2xx before trigger"
+}
