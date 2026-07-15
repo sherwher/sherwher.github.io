@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-07-15T00:08:48.524Z",
+  "summary": "2026 메가뷰티쇼 identity matched; 1080x580 JPEG source is HTTP 200 and visually valid"
+}

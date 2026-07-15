@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "현재",
+    "headline": "파우치 비우려다\n장바구니 채우는 중",
+    "body": "메가뷰티쇼 열고 구경만 한다는 사람 발견함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "변명",
+    "headline": "구경만 한다는 말\n세 번째 하는 중",
+    "body": "손은 이미 크림과 선케어 탭을\n아주 성실하게 넘기는 중"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "합리화",
+    "headline": "1+1 탭은 그냥\n확인만 한 거임",
+    "body": "두 개 필요한 이유는 없는데\n하나만 살 이유도 사라짐"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "논리",
+    "headline": "크림은 크림이고\n선크림은 별개임",
+    "body": "카테고리 다르면 중복 소비 아니라는\n뷰티 논리 전개 중"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "쿠폰",
+    "headline": "쿠폰 받았다고\n절약은 아닌데",
+    "body": "안 쓰면 손해 같다는 한마디에\n장바구니 방어선 무너짐"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "필요한 건 하나인데\n찜은 왜 일곱 개임",
+    "body": "비교하려고 담았다는 말이\n가장 수상한 단계임"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "일단 찜만…\n이래도 안 사?",
+    "body": "안 산 사람치고 장바구니\n브랜드 구성이 너무 구체적임"
+  }
+]
