@@ -1,0 +1,6 @@
+{
+  "gate": "sns-publisher",
+  "status": "pass",
+  "checkedAt": "2026-07-15T00:24:43.529Z",
+  "summary": "manifest contract and seven public HTTPS images verified; disclosure present; only coupang-publish-manifest.yml is in scope"
+}
