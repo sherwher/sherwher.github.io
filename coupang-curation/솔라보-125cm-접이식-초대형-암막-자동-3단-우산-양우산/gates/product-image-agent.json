@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-07-20T04:18:08.593Z",
+  "summary": "verified 720x720 umbrella image; product identity matched; CDN source is public HTTP 200"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "현재",
+    "headline": "요즘 비 오는 횟수\n우산 수량보다 많음",
+    "body": "하나로 버티려다\n우산 배치도 그리는 사람 발견함"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "반복",
+    "headline": "비 그치면 안 삼\n오면 또 찾는 중",
+    "body": "일기예보 열 때마다\n우산 링크도 같이 여는 생활 중"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "배치",
+    "headline": "현관용 하나\n차량용 하나",
+    "body": "회사 비상용까지 세기 시작하면\n이미 쟁이기 확정임"
+  },
+  {
+    "index": 4,
+    "type": "weather",
+    "eyebrow": "크기",
+    "headline": "125CM 숫자 보고\n갑자기 든든해짐",
+    "body": "우산 크기 하나로\n장마 대비 완료한 표정 짓는 중"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "승격",
+    "headline": "자동 우산은\n비상장비 맞음",
+    "body": "비바람 부는 출근길 핑계로\n소비를 재난 대비로 승격함"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "우산은 왜 꼭\n필요할 때 없음",
+    "body": "잃어버릴 미래까지 계산해서\n여분 수량 정하는 단계임"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "몇 개 쟁일지\n이래도 안 사?",
+    "body": "한 개 살 생각이었는데\n배치 장소가 세 군데로 늘어남"
+  }
+]
