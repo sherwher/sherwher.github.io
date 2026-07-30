@@ -1,0 +1,6 @@
+{
+  "gate": "card-image-editor",
+  "status": "pass",
+  "checkedAt": "2026-07-30T01:25:47.264Z",
+  "summary": "7장 원본 단독 검수 PASS, 커버 이벤트 신호·가독성·배지·footer 정상, placeholder 없음"
+}

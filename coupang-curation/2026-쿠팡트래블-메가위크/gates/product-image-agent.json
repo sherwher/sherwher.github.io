@@ -1,0 +1,6 @@
+{
+  "gate": "product-image-agent",
+  "status": "pass",
+  "checkedAt": "2026-07-30T01:22:53.903Z",
+  "summary": "재생성 후에도 검증된 공식 배너 SHA-256 동일, 이벤트 정체성·해상도·비placeholder 확인"
+}

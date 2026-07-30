@@ -1,0 +1,51 @@
+﻿[
+  {
+    "index": 1,
+    "type": "cover",
+    "eyebrow": "현재",
+    "headline": "휴가 계획 없었는데\n메가위크 보는 중",
+    "body": "여행 안 간다던 사람이 이벤트 일정부터 외우는 중"
+  },
+  {
+    "index": 2,
+    "type": "conflict",
+    "eyebrow": "변명",
+    "headline": "안 갈 이유보다\n날짜부터 세는 중",
+    "body": "7월 24일부터 8월 9일까지라며 달력부터 켜봄"
+  },
+  {
+    "index": 3,
+    "type": "justification",
+    "eyebrow": "합리화",
+    "headline": "최대 7만원 쿠폰\n안 쓰면 손해래",
+    "body": "여행비 아끼는 게 아니라 여행을 추가하는 사람 됨"
+  },
+  {
+    "index": 4,
+    "type": "usecase",
+    "eyebrow": "탐색",
+    "headline": "워터파크 보고\n테마파크까지 감",
+    "body": "하나만 보려다가 여름 놀거리 전체를 훑는 중"
+  },
+  {
+    "index": 5,
+    "type": "reason",
+    "eyebrow": "숫자",
+    "headline": "최대 87% 보자\n8월이 비어 보임",
+    "body": "할인 숫자만 봤는데 빈 주말부터 찾는 중"
+  },
+  {
+    "index": 6,
+    "type": "truth",
+    "eyebrow": "사실",
+    "headline": "여행이 필요한 게\n아니라 놀고 싶음",
+    "body": "합리화 걷어내니 그냥 여름에 나가고 싶었던 거임"
+  },
+  {
+    "index": 7,
+    "type": "closing",
+    "eyebrow": "결론",
+    "headline": "그래서\n이래도 안 사?",
+    "body": "안 간다던 사람이 동행자 일정까지 물어보는 중"
+  }
+]
